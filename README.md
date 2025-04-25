@@ -7,7 +7,8 @@ no?
 ### The Mango Bird Data/Resource pack gives you many mango-bird themed items. "Some" even "work" on multiplayer!
 
 It also spawns the Mango Bird as an entity, replacing the gray parrot with a 30% chance
--# this requires [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) to work, but everything else should work otherwise!
+
+this requires [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) to work, but everything else should work otherwise!
 
 # INSTALLATION:
 ### I formatted this pack to have the texture pack and resource pack live in the same .zip file! all you need to do is put it in both the resourcepack folder and the datapack folder, and you should be good to go!
