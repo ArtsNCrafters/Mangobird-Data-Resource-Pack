@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      "minecraft:totem_of_undying"
+    ],
+    [
+      "minecraft:glistering_melon_slice"
+    ],
+    [
+      "minecraft:egg"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:totem_of_undying",
+    "components": {
+      "minecraft:item_model": "artsfood:mangobird",
+      "minecraft:item_name": "\"Mango Bird will save u if u die\""
+    },
+    "count": 1
+  }
+}

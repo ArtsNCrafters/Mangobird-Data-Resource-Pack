@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "description": "☆Made by arts, Pack Pormat by Lunar Eclipse Studios☆",
+        "pack_format": 46,
+        "supported_formats": [
+            46,
+            61
+        ]
+    }
+}

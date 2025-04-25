@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      "minecraft:dried_kelp"
+    ],
+    [
+      "minecraft:sweet_berries"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:dried_kelp",
+    "components": {
+      "minecraft:item_model": "artsfood:strawberryfrog",
+      "minecraft:item_name": "\"Strawberry Frog\""
+    },
+    "count": 1
+  }
+}
