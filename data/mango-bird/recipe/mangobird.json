@@ -10,14 +10,75 @@
     ],
     [
       "minecraft:egg"
+    ],
+    [
+      "minecraft:enchanted_golden_apple"
+    ],
+    [
+      "minecraft:enchanted_golden_apple"
+    ],
+    [
+      "minecraft:enchanted_golden_apple"
+    ],
+    [
+      "minecraft:enchanted_golden_apple"
+    ],
+    [
+      "minecraft:enchanted_golden_apple"
+    ],
+    [
+      "minecraft:enchanted_golden_apple"
     ]
   ],
   "result": {
     "id": "minecraft:enchanted_golden_apple",
     "components": {
       "minecraft:item_model": "mango-bird:mangobird",
-      "minecraft:item_name": "\"Mango Bird\""
+      "minecraft:item_name": "Mango Bird",
+      "minecraft:consumable": {
+        "consume_seconds": 5,
+        "animation": "eat",
+        "sound": "minecraft:entity.parrot.hurt",
+        "on_consume_effects": [
+          {
+            "type": "minecraft:apply_effects",
+            "effects": [
+              {
+                "id": "minecraft:slow_falling",
+                "amplifier": 2
+              },
+              {
+                "id": "minecraft:luck"
+              },
+              {
+                "id": "minecraft:speed",
+                "amplifier": 3,
+                "duration": 250,
+                "ambient": true,
+                "show_particles": false,
+                "show_icon": true
+              },
+              {
+                "id": "minecraft:bad_omen",
+                "amplifier": 255,
+                "duration": 1000,
+                "ambient": true,
+                "show_particles": false,
+                "show_icon": true
+              },
+              {
+                "id": "minecraft:instant_health",
+                "amplifier": 3,
+                "duration": 1,
+                "ambient": false,
+                "show_particles": false,
+                "show_icon": false
+              }
+            ]
+          }
+        ]
+      }
     },
-    "count": 1
+    "count": 7
   }
 }

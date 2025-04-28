@@ -16,7 +16,7 @@
     "id": "minecraft:totem_of_undying",
     "components": {
       "minecraft:item_model": "mango-bird:mangobird",
-      "minecraft:item_name": "\"Mango Bird will save u if u die\""
+      "minecraft:item_name": "Mango Bird will save u if u die"
     },
     "count": 1
   }
