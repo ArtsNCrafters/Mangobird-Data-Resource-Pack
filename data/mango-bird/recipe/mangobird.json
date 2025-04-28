@@ -15,7 +15,7 @@
   "result": {
     "id": "minecraft:enchanted_golden_apple",
     "components": {
-      "minecraft:item_model": "artsfood:mangobird",
+      "minecraft:item_model": "mango-bird:mangobird",
       "minecraft:item_name": "\"Mango Bird\""
     },
     "count": 1

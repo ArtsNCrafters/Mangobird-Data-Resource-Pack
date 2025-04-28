@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "artsfood:item/strawberryfrog"
+        "layer0": "mango-bird:item/mangobird"
     }
 }

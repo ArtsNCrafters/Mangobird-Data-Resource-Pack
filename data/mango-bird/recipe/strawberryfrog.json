@@ -12,7 +12,7 @@
   "result": {
     "id": "minecraft:dried_kelp",
     "components": {
-      "minecraft:item_model": "artsfood:strawberryfrog",
+      "minecraft:item_model": "mango-bird:strawberryfrog",
       "minecraft:item_name": "\"Strawberry Frog\""
     },
     "count": 1
