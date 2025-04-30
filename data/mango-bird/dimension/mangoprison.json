@@ -1,0 +1,17 @@
+{
+  "type": "mango-bird:mangovoid",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "mango-bird:void",
+      "lakes": false,
+      "features": false,
+      "layers": [
+        {
+          "height": 1,
+          "block": "minecraft:barrier"
+        }
+      ]
+    }
+  }
+}
