@@ -1,0 +1,1 @@
+execute in mango-bird:mangoprison run tp @s 0 100 0

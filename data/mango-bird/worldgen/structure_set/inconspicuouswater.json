@@ -1,0 +1,17 @@
+{
+  "structures": [
+    {
+      "structure": "mango-bird:inconspicuouswater",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:concentric_rings",
+    "distance": 0,
+    "spread": 1,
+    "count": 1,
+    "preferred_biomes": "mango-bird:void",
+    "salt": 0,
+    "frequency": 1
+  }
+}
